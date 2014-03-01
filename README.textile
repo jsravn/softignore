@@ -1,0 +1,9 @@
+h1. Introduction
+
+softignore.py is a plugin for hexchat that allows one to fade messages
+for specified nicks. This is useful for rooms with lots of bot
+messages.
+
+This script was originally taken from
+http://hbfs.wordpress.com/2009/03/24/soft-ignore-filter-buggers-in-xchat/. I've
+updated it to work with later python versions and the latest hexchat.
